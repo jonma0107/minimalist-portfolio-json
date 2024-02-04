@@ -1,0 +1,197 @@
+{
+  "basics": {
+    "name": "Jonathan Mauricio Meza Bastidas",
+    "label": "Desarrollador de Software Full Stack ",
+    "image": "https://i.ibb.co/K6RCqYh/foto.jpg",
+    "email": "contacto@jonathanmeza.com.co",
+    "phone": "(+57) 3052490822",
+    "url": "https://jonathanmeza.com.co",
+    "summary": "Desarrollador de software, enfocado en el desarrollo web Full Stack. Actualmente construyendo aplicaciones web en proyectos para el sector salud.",
+    "location": {
+      "address": "",
+      "postalCode": "110111",
+      "city": "Bogotá",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "jonma0107",
+      "url": "https://www.linkedin.com/in/jonma0107/"
+    },
+    {
+      "network": "Twitter",
+      "username": "neuromante0107",
+      "url": "https://twitter.com/neuromante0107"
+    },
+    {
+      "network": "GitHub",
+      "username": "jonma0107",
+      "url": "https://github.com/jonma0107"
+    }
+  ]
+  },
+  "work": [{
+    "name": "TicSocial",
+    "position": "Desarrollador Junior",
+    "url": "https://ticsocial.com.co",
+    "startDate": "2023-07-19",
+    "endDate": null,
+    "summary": "Siendo parte del equipo de Desarrollo de software, tengo la oportunidad de trabajar desde el lado del backend en la construcción de aplicaciones web eficientes y escalables. ",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded Volunteer of the Month"
+    ]
+  }],
+  "education": [{
+    "institution": "Servicio Nacional de Aprendizaje (SENA)",
+    "url": "https://www.sena.edu.co",
+    "area": "Programación de Software",
+    "studyType": "Técnico Profesional en Programación de Software",
+    "startDate": "2022-04-22",
+    "endDate": "2023-07-17",
+    "score": "4.5",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Tercer Puesto en el evento nacional Hackathon 2021",
+    "year": "2021",
+    "awarder": "Universidad Nacional de Colombia",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Diplomado en Habilidades de Programación de Software",
+    "year": "2021",
+    "issuer": "Universidad Nacional de Colombia",
+    "url": "https://unal.edu.co/"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Python Developer",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Django | DRF | ORM",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Full Stack",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Scrum",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "React",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Docker",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "CI/CD",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "AWS",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "Spanish",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "English",
+    "fluency": "intermediate"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [{
+    "name": "Project",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "Description...",
+    "highlights": [
+      "Won award at AIHacks 2016"
+    ],
+    "url": "https://project.com/"
+  }]
+}
